@@ -29,8 +29,3 @@ Welcome to the **Destruction Assessment Program**, a tool designed to assess the
 ## User Interface
 
 The program is designed with an easy-to-use interface to provide an intuitive experience when calculating potential destruction levels under different explosion scenarios.
-
-## Requirements
-
-- This program is built using C++ and requires the **VCL (Visual Component Library)** for the graphical user interface.
-- You will need a suitable development environment (e.g., Embarcadero RAD Studio) to compile and run the project.
